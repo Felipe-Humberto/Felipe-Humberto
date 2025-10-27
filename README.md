@@ -1,35 +1,6 @@
-<div align="center">
-  
-  <h1>
-    Hi!, I'm Adrian Felipe 👋
-  </h1>
-  
-  <h3>
-    Desarrollador Frontend | Especialista en Angular
-  </h3>
-  
-</div>
-
 <p align="center">
-  <img src="github-header-banner (1).png" alt="Banner profesional de Adrian Felipe">
+  <img src="github-header-banner-1.png" alt="Banner profesional de Adrian Felipe">
 </p>
-<p align="center">
-  <img src="./github-header-banner (1).png" alt="Banner profesional de Adrian Felipe">
-</p>
-
-![Header](./github-header-banner.png)
-
----
-
-## 👨‍💻 Sobre Mí
-
-Soy un desarrollador Frontend con [X] años de experiencia, especializado en la **creación de aplicaciones web robustas y escalables con Angular**. Mi pasión es construir interfaces de usuario (UI) intuitivas y de alto rendimiento, cuidando siempre la calidad del código y las buenas prácticas (Clean Code, SOLID).
-
-* 🚀 Mi ecosistema principal es **Angular**, con sólida experiencia en TypeScript, RxJS, NgRx (o Akita/Elf) y Angular Material.
-* 🌱 Actualmente estoy ampliando mi stack, explorando **React** para componentes dinámicos y **Astro** para sitios de contenido estático (SSG) de alta velocidad.
-* 💡 Busco colaborar en proyectos desafiantes donde pueda aplicar mi experiencia y seguir creciendo como desarrollador.
-
-<br>
 
 ---
 
@@ -53,6 +24,18 @@ Soy un desarrollador Frontend con [X] años de experiencia, especializado en la 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
+
+<br>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+Soy un desarrollador Frontend con [X] años de experiencia, especializado en la **creación de aplicaciones web robustas y escalables con Angular**. Mi pasión es construir interfaces de usuario (UI) intuitivas y de alto rendimiento, cuidando siempre la calidad del código y las buenas prácticas (Clean Code, SOLID).
+
+* 🚀 Mi ecosistema principal es **Angular**, con sólida experiencia en TypeScript, RxJS, NgRx (o Akita/Elf) y Angular Material.
+* 🌱 Actualmente estoy ampliando mi stack, explorando **React** para componentes dinámicos y **Astro** para sitios de contenido estático (SSG) de alta velocidad.
+* 💡 Busco colaborar en proyectos desafiantes donde pueda aplicar mi experiencia y seguir creciendo como desarrollador.
 
 <br>
 
