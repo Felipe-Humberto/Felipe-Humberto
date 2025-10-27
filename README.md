@@ -13,6 +13,9 @@
 <p align="center">
   <img src="github-header-banner (1).png" alt="Banner profesional de Adrian Felipe">
 </p>
+<p align="center">
+  <img src="./github-header-banner (1).png" alt="Banner profesional de Adrian Felipe">
+</p>
 
 ![Header](./github-header-banner.png)
 
