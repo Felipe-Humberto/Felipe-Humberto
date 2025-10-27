@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="[ENLACE_A_IMAGEN_BANNER_1500x500]" alt="Banner profesional de Adrian Felipe">
+  <img src="./github-header-banner" alt="Banner profesional de Adrian Felipe">
 </p>
 
 ---
