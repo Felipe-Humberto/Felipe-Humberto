@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>
-    ¡Hola! Soy [TU_NOMBRE] 👋
+    Hi!, I'm Adrian Felipe 👋
   </h1>
   
   <h3>
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="[ENLACE_A_IMAGEN_BANNER_1500x500]" alt="Banner profesional de [TU_NOMBRE]">
+  <img src="[ENLACE_A_IMAGEN_BANNER_1500x500]" alt="Banner profesional de Adrian Felipe">
 </p>
 
 ---
